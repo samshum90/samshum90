@@ -9,7 +9,7 @@ Feel free to contact me on [Linkedin](https://www.linkedin.com/in/samuel-shum/) 
 
 Also check out my [portfolio](https://samshum90.github.io).
 
-## 💻 Technologies
+## 💻 Technologies I've worked with
 
 ![](https://img.shields.io/badge/HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=555555) ![](https://img.shields.io/badge/CSS3-informational?style=flat&logo=CSS3&logoColor=white&color=555555) ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=555555)
 
@@ -29,6 +29,9 @@ Also check out my [portfolio](https://samshum90.github.io).
 
 ![](https://img.shields.io/badge/Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=555555) ![](https://img.shields.io/badge/Leaflet-informational?style=flat&logo=Leaflet&logoColor=white&color=555555) ![](https://img.shields.io/badge/Google-Charts-informational?style=flat&logo=Google&logoColor=white&color=555555) ![](https://img.shields.io/badge/Sinatra-informational?style=flat&logo=Red-Hat&logoColor=white&color=555555)
 
+## 🌱 I’m currently learning
+
+![](https://img.shields.io/badge/C-Sharp-informational?style=flat&logo=C-Sharp&logoColor=white&color=555555) ![](https://img.shields.io/badge/.Net-informational?style=flat&logo=.Net&logoColor=white&color=555555)
 <!--
 **samshum90/samshum90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
