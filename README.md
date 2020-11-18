@@ -39,6 +39,7 @@ Also check out my [portfolio](https://samshum90.github.io).
 
 ![](https://img.shields.io/badge/Lightroom-informational?style=flat&logo=Adobe-Lightroom-CC&logoColor=31A8FF&color=555555) ![](https://img.shields.io/badge/Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=31A8FF&color=555555) ![](https://img.shields.io/badge/XD-informational?style=flat&logo=Adobe-XD&logoColor=FF26BE&color=555555) ![](https://img.shields.io/badge/InDesign-informational?style=flat&logo=Adobe-InDesign&logoColor=EE3D8F&color=555555) ![](https://img.shields.io/badge/Illustrator-informational?style=flat&logo=Adobe-Illustrator&logoColor=FF9A00&color=555555)
 
+![](https://img.shields.io/badge/Github-informational?style=flat&logo=Github&logoColor=white&color=555555) ![](https://img.shields.io/badge/Docker-informational?style=flat&logo=Docker&logoColor=2496ED&color=555555) 
 <!--
 **samshum90/samshum90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
