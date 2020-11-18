@@ -1,3 +1,6 @@
+![Profile Header Image](https://github.com/samshum90/samshum90/blob/main/images/Github_Banner.jpg)
+
+
 ### Hi there 👋
 
 <!--
