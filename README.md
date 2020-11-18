@@ -27,7 +27,7 @@ Also check out my [portfolio](https://samshum90.github.io).
 
 ![](https://img.shields.io/badge/RUBY-informational?style=flat&logo=RUBY&logoColor=CC342D&color=555555) ![](https://img.shields.io/badge/Sinatra-informational?style=flat&logo=Red-Hat&logoColor=white&color=555555)
 
-![](https://img.shields.io/badge/Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=563D7C&color=555555) ![](https://img.shields.io/badge/Leaflet-informational?style=flat&logo=Leaflet&logoColor=199900&color=555555) ![](https://img.shields.io/badge/Google-Charts-informational?style=flat&logo=Google&logoColor=4285F4&color=555555) ![](https://img.shields.io/badge/Sinatra-informational?style=flat&logo=Red-Hat&logoColor=white&color=555555)
+![](https://img.shields.io/badge/Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=563D7C&color=555555) ![](https://img.shields.io/badge/Leaflet-informational?style=flat&logo=Leaflet&logoColor=199900&color=555555) ![](https://img.shields.io/badge/Google-Charts-informational?style=flat&logo=Google&logoColor=4285F4&color=555555)
 
 ## 🌱 I’m currently learning
 
