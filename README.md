@@ -17,7 +17,7 @@ Also check out my [portfolio](https://samshum90.github.io).
 
 ![](https://img.shields.io/badge/Vue-informational?style=flat&logo=Vue.js&logoColor=4FC08D&color=555555) ![](https://img.shields.io/badge/Vuetify-informational?style=flat&logo=Vuetify&logoColor=1867C0&color=555555)
 
-![](https://img.shields.io/badge/Angular-informational?style=flat&logo=Angular&logoColor=DD0031&color=555555) ![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=TypeScript&logoColor=007ACC&color=555555) ![](https://img.shields.io/badge/Ionic-informational?style=flat&logo=Ionic&logoColor=3880FF&color=555555)
+![](https://img.shields.io/badge/Angular-informational?style=flat&logo=Angular&logoColor=DD0031&color=555555) ![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=TypeScript&logoColor=007ACC&color=555555) ![](https://img.shields.io/badge/Ionic-informational?style=flat&logo=Ionic&logoColor=3880FF&color=555555) ![](https://img.shields.io/badge/Material-informational?style=flat&logo=Angular&logoColor=white&color=555555)
 
 ![](https://img.shields.io/badge/Node.js-informational?style=flat&logo=Node.js&logoColor=339933&color=555555) ![](https://img.shields.io/badge/Express-informational?style=flat&logo=Node.js&logoColor=white&color=555555) ![](https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=336791&color=555555) ![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=MongoDB&logoColor=47A248&color=555555) ![](https://img.shields.io/badge/Firebase-informational?style=flat&logo=Firebase&logoColor=FFCA28&color=555555)
 
