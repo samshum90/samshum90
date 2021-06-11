@@ -9,6 +9,9 @@ Feel free to contact me on [Linkedin](https://www.linkedin.com/in/samuel-shum/) 
 
 Also check out my [portfolio](https://samshum90.github.io).
 
+## ⚡ Github Stats 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samshum90&hide=python&layout=compact&langs_count=9)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 💻 Technologies I've worked with
 
 ![](https://img.shields.io/badge/HTML5-informational?style=flat&logo=HTML5&logoColor=E34F26&color=555555) ![](https://img.shields.io/badge/CSS3-informational?style=flat&logo=CSS3&logoColor=1572B6&color=555555) ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=F7DF1E&color=555555)
